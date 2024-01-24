@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1 ">
+<title>Rodando Java WEB</title>
+</head>
+<body>
+<h1>java web</h1>
+
+<h2>Formulario</h2>
+<form method="POST" action="">
+Peso: <input type="text" name="peso"/><br/>
+Altura: <input type="text" name="altura"/><br/>
+<input type="submit" value="Calcular"/><br/>
+</form>
+</body>
+</html>

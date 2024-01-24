@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/b/estudo/Acelera/Java_web/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2480331339.index
+564209098.index
+1160149325.index
+1018118463.index
+411050734.index
+1423892299.index
+3595815499.index
